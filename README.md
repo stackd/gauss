@@ -1,4 +1,1 @@
-gauss
-=====
-
-https://github.com/wayoutmind/gauss
+Moved to https://github.com/wayoutmind/gauss
